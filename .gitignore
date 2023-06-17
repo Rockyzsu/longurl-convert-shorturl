@@ -9,8 +9,6 @@ node_modules/
 *.xml
 *.csv
 *.pkl
-*.jpg
-*.png
 *.flv
 *.flv.download
 *.gif
